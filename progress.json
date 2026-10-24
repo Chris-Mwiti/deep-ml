@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T11:30:23.589Z",
+  "generated_at": "2026-10-24T10:43:00.469Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -24,6 +24,17 @@
       "path": "math/0014-orthogonality-and-projections",
       "first_solved_at": "2026-10-23T11:30:22.938Z",
       "last_pushed_at": "2026-10-23T11:30:22.938Z"
+    },
+    "math:18": {
+      "kind": "math",
+      "id": "18",
+      "title": "Descriptive Statistics",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/18",
+      "path": "math/0018-descriptive-statistics",
+      "first_solved_at": "2026-10-24T10:42:59.357Z",
+      "last_pushed_at": "2026-10-24T10:42:59.357Z"
     }
   }
 }
