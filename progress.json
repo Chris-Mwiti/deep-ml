@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T11:21:17.384Z",
+  "generated_at": "2026-10-25T11:50:57.951Z",
   "items": {
     "problem:8": {
       "kind": "problem",
@@ -61,6 +61,19 @@
       "last_pushed_at": "2026-10-24T11:21:16.511Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:253": {
+      "kind": "problem",
+      "id": "253",
+      "title": "Feature Drift Detection using Population Stability Index",
+      "difficulty": "medium",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/253",
+      "path": "problems/0253-feature-drift-detection-using-population-stability-index",
+      "first_solved_at": "2026-10-25T11:50:57.177Z",
+      "last_pushed_at": "2026-10-25T11:50:57.177Z",
+      "language": "python",
+      "lines": 70
     }
   }
 }
