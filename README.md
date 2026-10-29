@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**6** solved · 4 problems · 0 labs · 2 math
+**7** solved · 5 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Model Inference Statistics for Monitoring](https://www.deep-ml.com/problems/248) | easy | 2026-10-24 | [solution](problems/0248-calculate-model-inference-statistics-for-monitoring) |
 | [Calculate P50/P95/P99 Latency Percentiles](https://www.deep-ml.com/problems/293) | easy | 2026-10-24 | [solution](problems/0293-calculate-p50-p95-p99-latency-percentiles) |
 | [Feature Drift Detection using Population Stability Index](https://www.deep-ml.com/problems/253) | medium | 2026-10-25 | [solution](problems/0253-feature-drift-detection-using-population-stability-index) |
+| [Implement Request Batching for Inference](https://www.deep-ml.com/problems/297) | medium | 2026-10-29 | [solution](problems/0297-implement-request-batching-for-inference) |
 
 ## Math
 
